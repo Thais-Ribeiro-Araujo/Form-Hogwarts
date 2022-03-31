@@ -1,6 +1,6 @@
 # TrybeWarts
 
-Esse projetinho foi desenvolvido junto as aulas e aos requisitos dados pela trybe e foi entregue como desafio e para conclusao da unidade 6 da ementa. O TrybeWarts é um formulario de uma escola de magia, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. Para isto você irá utilizar javascript, css e html. E manipular DOM e JavaScript. 
+Nesse projeto foi feito um formulario inspirado na tematica de Hogwarts do universo Harry Potter, porem trazendo para o ambiente didatico da Trybe e da programacao pratica. Esse projetinho foi desenvolvido junto as aulas e aos requisitos dados pela trybe e foi entregue como desafio e para conclusao da unidade 6 da ementa. O TrybeWarts é um formulario de uma escola de magia, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. Para isto você irá utilizar javascript, css e html. E manipular DOM e JavaScript. 
 
 <img height="200" src="https://i.pinimg.com/originals/05/44/a3/0544a3ca1394e8543867d4dd0bf517c0.gif" style="max-width: 100%;">
 

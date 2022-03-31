@@ -1,25 +1,15 @@
+# TrybeWarts
 
+Esse projetinho foi desenvolvido junto as aulas e aos requisitos dados pela trybe e foi entregue como desafio e para conclusao da unidade 6 da ementa. O TrybeWarts é um formulario de uma escola de magia, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. Para isto você irá utilizar javascript, css e html. E manipular DOM e JavaScript. 
 
-# Habilidades
+<img height="200" src="https://i.pinimg.com/originals/05/44/a3/0544a3ca1394e8543867d4dd0bf517c0.gif" style="max-width: 100%;">
 
-Neste projeto, verificamos se você é capaz de:
-
-* Criar formulários em HTML;
-* Utilizar CSS Flexbox para criar layouts flexíveis;
-* Criar regras CSS específicas para serem aplicadas a dispositivos móveis;
+Neste projeto, foi testado verificado as aplicaçoes abaixo:
+* Formulários feito em HTML;
+* CSS Flexbox para criar layouts flexíveis;
+* Regras CSS específicas para serem aplicadas a dispositivos móveis;
 * Construir páginas que alteram o seu layout de acordo com a orientação da tela;
 
+Pode-se observar o resultado pela demonstraçao abaixo:
 
-## O que deverá ser desenvolvido
-
-Neste projeto, você irá desenvolver uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling, já que programar é o mais próximo que podemos chegar de algo **verdadeiramente mágico**! Mas não se preocupe se não tiver conhecimento sobre o universo da obra original, pois criamos nossa própria versão da Escola de Bruxaria e você terá todas as informações necessárias para a construção do projeto nesse **README**!
-
-## Desenvolvimento
-
-⚠️ É importante que seus arquivos tenham exatamente estes nomes!
-
-O seu Pull Request deverá conter os arquivos `index.html`, `style.css` e `script.js`, que conterão seu código HTML, CSS e JavaScript, respectivamente.
-
-Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a monitoria.
-
-
+<img height="600" src="pagina-principal.png" style="max-width: 100%;">
